@@ -1,0 +1,9 @@
+[submodule "nest-api"]
+	path = nest-api
+	url = https://github.com/virb30/fc-codedelivery-nest-api
+[submodule "simulator"]
+	path = simulator
+	url = https://github.com/virb30/fc-simulator-go
+[submodule "react-frontend"]
+	path = react-frontend
+	url = https://github.com/virb30/fc-codedelivery-front
